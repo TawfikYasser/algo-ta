@@ -1,3 +1,7 @@
+//Knapsack Problem - Task 1
+// Name: Tawfik Yasser Tawfik
+// ID: 20180075
+// Group: IS-3
 #include <bits/stdc++.h>
 
 using namespace std;

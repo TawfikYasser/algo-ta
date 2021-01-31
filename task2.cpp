@@ -1,4 +1,4 @@
-//0-1 Knapsack Problem
+// Voucher Problem - Task 2
 // Name: Tawfik Yasser Tawfik
 // ID: 20180075
 // Group: IS-3
